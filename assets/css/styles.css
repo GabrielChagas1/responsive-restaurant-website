@@ -88,6 +88,7 @@ img{
   max-width: 100%;
   height: auto;
 }
+
 /*========== Variables Dark theme ==========*/
 
 
@@ -190,10 +191,14 @@ img{
 }
 
 /* Show menu */
-
+.show-menu{
+  top: var(--header-height);
+}
 
 /* Active menu */
-
+.active-link{
+  color: var(--first-color);
+}
 
 /* Change background header */
 
