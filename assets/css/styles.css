@@ -230,7 +230,10 @@ img{
 }
 
 /* Show scrolltop */
-
+.scroll-top{
+  visibility: visible;
+  bottom: 1.5rem;
+}
 
 /*========== HOME ==========*/
 
