@@ -436,7 +436,7 @@ img{
   margin-bottom: var(--mb-1);
 }
 
-.footer__link{
+.footer__link:hover{
   color: var(--first-color);
 }
 
@@ -531,4 +531,22 @@ img{
   }
 
 }
+
+@media screen and (min-width: 960px){
+  .bd-container{
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .home__img{
+    width: 500px;
+  }
+
+  .about__container,
+  .app__container{
+    column-gap: 7rem;
+  }
+  
+}
+
 /* For tall screens on mobiles y desktop*/
