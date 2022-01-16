@@ -21,7 +21,7 @@
 * [Links Contato](#links-contato)
 
 # Descrição
-Criação de um site de restaurante para treino e fixação dos conteúdos aprendendido durante a aula [**@Online Tutorials**](https://www.youtube.com/c/Bedimcode)
+Criação de um site de restaurante para treino e fixação dos conteúdos aprendendido durante a aula [**@Bedimcode**](https://www.youtube.com/c/Bedimcode)
 
 # Techs: 
 - **HTML**
