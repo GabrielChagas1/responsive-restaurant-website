@@ -26,6 +26,7 @@ Criação de um site de restaurante para treino e fixação dos conteúdos apren
 # Techs: 
 - **HTML**
 - **CSS**
+- **Javascript**
 
 # Design:
 - O modelo final para desktop está disponível na pasta `./design`
